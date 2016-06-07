@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #RSA Algorithm
 
 [TOC]
@@ -326,3 +327,7 @@ Just in case that U don't have a python compiler on your PC,the whole program wa
 	>cd dist/
 	>rsa[.exe] [-h] -p PLAINFILE [-n NFILE] [-e EFILE] [-d DFILE] -c CIPHERFILE
 		tes/enc/dec
+=======
+# rsa-python
+rsa cryption writen with python
+>>>>>>> 57f87d96ab08220bf4ffe256254319217f22015c
