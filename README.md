@@ -71,7 +71,6 @@ choose one of the following  modes for what U want
 	│  README.html
 	│  README.md
 	│  rsa.py
-	│  RSA实验报告.doc
 	│  setup.py
 	│  
 	├─build
